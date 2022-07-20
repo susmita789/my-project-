@@ -9,8 +9,8 @@ import requests
 
 if __name__ =='__main__':
     #speak('Sushmita whats about your health right now, give me a quick update   According that i plan your diet') 
-    # speak('ek chor mere gal ghuriye debo babana')
-    # speak('kelia lal kore debo')
+    # 
+    #
     
     try:
 
